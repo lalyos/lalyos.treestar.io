@@ -113,6 +113,15 @@
       },
       "Attrs": {},
       "Parent": "linil3e55hti71quj1"
+    },
+    {
+      "ID": "@quickadd",
+      "Name": "@quickadd",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {}
     }
   ]
 }
