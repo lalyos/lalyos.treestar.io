@@ -251,7 +251,8 @@
           "lkoaxj3py8yapl96j8",
           "lkoaxwx45qfb42aqesh",
           "lkoaybedda2ncm379u5",
-          "lkoaypbf050t6nd4sukd"
+          "lkoaypbf050t6nd4sukd",
+          "lkoazdegipd6k3x2f9q"
         ],
         "Components": []
       },
@@ -671,7 +672,7 @@
     },
     {
       "ID": "lkoaypbf050t6nd4sukd",
-      "Name": "plejskaviva",
+      "Name": "plejskavica",
       "Linked": {
         "Children": [
           "lkoaz8hdxeydzk6t"
@@ -805,6 +806,16 @@
       "Attrs": {},
       "Rel": "Components",
       "Parent": "lkoaz8hdxeydzk6t"
+    },
+    {
+      "ID": "lkoazdegipd6k3x2f9q",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkoax50jaxj5ewzruf7"
     }
   ],
   "settings": {}
