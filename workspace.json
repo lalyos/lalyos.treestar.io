@@ -16,7 +16,8 @@
       "lkoaybedda2ncm379u5": false,
       "lkoaypbf050t6nd4sukd": false,
       "lkoazdegipd6k3x2f9q": false,
-      "lkoazqp10mtukfs2m72": false
+      "lkoazqp10mtukfs2m72": false,
+      "lkob24y7j97djc9umz": true
     }
   },
   "nodes": [
@@ -96,7 +97,8 @@
       "Linked": {
         "Children": [
           "linilamz898b37r4rdq",
-          "lkoax50jaxj5ewzruf7"
+          "lkoax50jaxj5ewzruf7",
+          "lkob24y7j97djc9umz"
         ],
         "Components": [],
         "Fields": []
@@ -1088,6 +1090,116 @@
       "Attrs": {},
       "Rel": "Components",
       "Parent": "lkoazy9udwxm58r7yz"
+    },
+    {
+      "ID": "lkob24y7j97djc9umz",
+      "Name": "desert",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lkob28hgwsly6bbn3mo"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "linil3e55hti71quj1"
+    },
+    {
+      "ID": "lkob28hgwsly6bbn3mo",
+      "Name": "treehouse.SmartNode",
+      "Value": {
+        "query": "categ"
+      },
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkob24y7j97djc9umz",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lkob2b96yd44cr1nacj",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {
+        "refTo": "lkoawgu0r9ay00wtml9"
+      },
+      "Parent": "@tmp"
+    },
+    {
+      "ID": "lkob2b97n5b7er0q4ar",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {
+        "refTo": "lkoaxj3py8yapl96j8"
+      },
+      "Parent": "@tmp"
+    },
+    {
+      "ID": "lkob2b97akv2xv4xbb4",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {
+        "refTo": "lkoaxwx45qfb42aqesh"
+      },
+      "Parent": "@tmp"
+    },
+    {
+      "ID": "lkob2b974lrfv03jsuq",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {
+        "refTo": "lkoaybedda2ncm379u5"
+      },
+      "Parent": "@tmp"
+    },
+    {
+      "ID": "lkob2b97wftejhfmpga",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {
+        "refTo": "lkoaypbf050t6nd4sukd"
+      },
+      "Parent": "@tmp"
+    },
+    {
+      "ID": "lkob2b977kipjg5dbz",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {
+        "refTo": "lkoazdegipd6k3x2f9q"
+      },
+      "Parent": "@tmp"
+    },
+    {
+      "ID": "lkob2b98ng9rl559t7",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {
+        "refTo": "lkoazqp10mtukfs2m72"
+      },
+      "Parent": "@tmp"
     }
   ],
   "settings": {}
