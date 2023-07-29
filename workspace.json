@@ -114,11 +114,14 @@
       "Name": "food",
       "Linked": {
         "Children": [
-          "lkoavd2jaaj1kgiol4r",
-          "lkoavh3igg897628nxc",
-          "lkoavkmoejyeqzkvqn"
+          "lkoawokckoae637us4i"
         ],
-        "Components": []
+        "Components": [],
+        "Fields": [
+          "lkoawgu0r9ay00wtml9",
+          "lkoawjz2gpjv2kl8mkb",
+          "lkoawngb3y8p6cjy60r"
+        ]
       },
       "Attrs": {},
       "Parent": "linil3e55hti71quj1"
@@ -159,28 +162,86 @@
       "Rel": "Components"
     },
     {
-      "ID": "lkoavd2jaaj1kgiol4r",
-      "Name": "price",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "linilamz898b37r4rdq"
-    },
-    {
-      "ID": "lkoavh3igg897628nxc",
-      "Name": "calories",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "linilamz898b37r4rdq"
-    },
-    {
-      "ID": "lkoavkmoejyeqzkvqn",
+      "ID": "lkoawgu0r9ay00wtml9",
       "Name": "category",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lkoawgu0otf4q357bwd"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "linilamz898b37r4rdq",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "lkoawgu0otf4q357bwd",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkoawgu0r9ay00wtml9",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lkoawjz2gpjv2kl8mkb",
+      "Name": "price",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lkoawjz29a6vmsa638a"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "linilamz898b37r4rdq",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "lkoawjz29a6vmsa638a",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkoawjz2gpjv2kl8mkb",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lkoawngb3y8p6cjy60r",
+      "Name": "calories",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lkoawngb6s7z1wcs6u4"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "linilamz898b37r4rdq",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "lkoawngb6s7z1wcs6u4",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkoawngb3y8p6cjy60r",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lkoawokckoae637us4i",
+      "Name": "vegan",
       "Linked": {
         "Children": [],
         "Components": []
