@@ -1216,5 +1216,7 @@
       "Parent": "lkobdv0x9r26rwgqeuw"
     }
   ],
-  "settings": {}
+  "settings": {
+    "theme": "sepia"
+  }
 }
