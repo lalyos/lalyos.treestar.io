@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastopen": "linil3e5kk2hwhvetb",
+  "lastopen": "lkobdv0x9r26rwgqeuw",
   "expanded": {
     "@workspace": {
       "linijxv4v96cvt0qql": true
@@ -1156,10 +1156,26 @@
       "Name": "notes",
       "Linked": {
         "Children": [],
+        "Components": [
+          "lkobe1r1cw56mmp4boi"
+        ]
+      },
+      "Attrs": {
+        "view": "document"
+      },
+      "Parent": "linil3e55hti71quj1"
+    },
+    {
+      "ID": "lkobe1r1cw56mmp4boi",
+      "Name": "treehouse.Document",
+      "Value": {},
+      "Linked": {
+        "Children": [],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "linil3e55hti71quj1"
+      "Parent": "lkobdv0x9r26rwgqeuw",
+      "Rel": "Components"
     }
   ],
   "settings": {}
