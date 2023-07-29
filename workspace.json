@@ -265,7 +265,7 @@
         "Components": []
       },
       "Attrs": {
-        "view": "table"
+        "view": "tabs"
       },
       "Parent": "linil3e55hti71quj1"
     },
