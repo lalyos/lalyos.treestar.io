@@ -11,7 +11,12 @@
       "linil812pjb8iuw01s": true,
       "lkoaumunrmddtaible": true,
       "lkoax50jaxj5ewzruf7": true,
-      "lkoaxj3py8yapl96j8": false
+      "lkoaxj3py8yapl96j8": false,
+      "lkoaxwx45qfb42aqesh": false,
+      "lkoaybedda2ncm379u5": false,
+      "lkoaypbf050t6nd4sukd": false,
+      "lkoazdegipd6k3x2f9q": false,
+      "lkoazqp10mtukfs2m72": false
     }
   },
   "nodes": [
@@ -257,7 +262,9 @@
         ],
         "Components": []
       },
-      "Attrs": {},
+      "Attrs": {
+        "view": "table"
+      },
       "Parent": "linil3e55hti71quj1"
     },
     {
@@ -296,7 +303,7 @@
     {
       "ID": "lkoaxrfw6mae3xgb7ii",
       "Name": "category",
-      "Value": "",
+      "Value": "desert",
       "Linked": {
         "Children": [],
         "Components": [
@@ -433,7 +440,7 @@
     {
       "ID": "lkoay9s2g6qj8y3jzy5",
       "Name": "category",
-      "Value": "",
+      "Value": "starter",
       "Linked": {
         "Children": [],
         "Components": [
@@ -570,7 +577,7 @@
     {
       "ID": "lkoaynop2x4rguz63tv",
       "Name": "category",
-      "Value": "",
+      "Value": "starter",
       "Linked": {
         "Children": [],
         "Components": [
@@ -707,7 +714,7 @@
     {
       "ID": "lkoaz8hbfqxjh56e4jo",
       "Name": "category",
-      "Value": "",
+      "Value": "main",
       "Linked": {
         "Children": [],
         "Components": [
@@ -844,7 +851,7 @@
     {
       "ID": "lkoazobi7qr1rma3zsm",
       "Name": "category",
-      "Value": "",
+      "Value": "main",
       "Linked": {
         "Children": [],
         "Components": [
@@ -981,7 +988,7 @@
     {
       "ID": "lkoazy9peyhbxrjnna7",
       "Name": "category",
-      "Value": "",
+      "Value": "main",
       "Linked": {
         "Children": [],
         "Components": [
