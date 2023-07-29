@@ -244,10 +244,26 @@
       "Name": "vegan",
       "Linked": {
         "Children": [],
-        "Components": []
+        "Components": [
+          "lkoawvi85ahhkm51pej"
+        ]
       },
       "Attrs": {},
       "Parent": "linilamz898b37r4rdq"
+    },
+    {
+      "ID": "lkoawvi85ahhkm51pej",
+      "Name": "treehouse.Checkbox",
+      "Value": {
+        "checked": false
+      },
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkoawokckoae637us4i",
+      "Rel": "Components"
     }
   ],
   "settings": {}
