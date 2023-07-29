@@ -1093,7 +1093,7 @@
     },
     {
       "ID": "lkob24y7j97djc9umz",
-      "Name": "desert",
+      "Name": "starters",
       "Linked": {
         "Children": [],
         "Components": [
@@ -1107,7 +1107,7 @@
       "ID": "lkob28hgwsly6bbn3mo",
       "Name": "treehouse.SmartNode",
       "Value": {
-        "query": "categ"
+        "query": "category:starter"
       },
       "Linked": {
         "Children": [],
@@ -1118,31 +1118,7 @@
       "Rel": "Components"
     },
     {
-      "ID": "lkob2b96yd44cr1nacj",
-      "Name": "",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {
-        "refTo": "lkoawgu0r9ay00wtml9"
-      },
-      "Parent": "@tmp"
-    },
-    {
-      "ID": "lkob2b97n5b7er0q4ar",
-      "Name": "",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {
-        "refTo": "lkoaxj3py8yapl96j8"
-      },
-      "Parent": "@tmp"
-    },
-    {
-      "ID": "lkob2b97akv2xv4xbb4",
+      "ID": "lkob2mwak13kholo2zp",
       "Name": "",
       "Linked": {
         "Children": [],
@@ -1154,7 +1130,7 @@
       "Parent": "@tmp"
     },
     {
-      "ID": "lkob2b974lrfv03jsuq",
+      "ID": "lkob2mwa7jotn32yqjy",
       "Name": "",
       "Linked": {
         "Children": [],
@@ -1162,42 +1138,6 @@
       },
       "Attrs": {
         "refTo": "lkoaybedda2ncm379u5"
-      },
-      "Parent": "@tmp"
-    },
-    {
-      "ID": "lkob2b97wftejhfmpga",
-      "Name": "",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {
-        "refTo": "lkoaypbf050t6nd4sukd"
-      },
-      "Parent": "@tmp"
-    },
-    {
-      "ID": "lkob2b977kipjg5dbz",
-      "Name": "",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {
-        "refTo": "lkoazdegipd6k3x2f9q"
-      },
-      "Parent": "@tmp"
-    },
-    {
-      "ID": "lkob2b98ng9rl559t7",
-      "Name": "",
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {
-        "refTo": "lkoazqp10mtukfs2m72"
       },
       "Parent": "@tmp"
     }
