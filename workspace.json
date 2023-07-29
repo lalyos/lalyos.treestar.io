@@ -27,6 +27,9 @@
       "linil3e55hti71quj1": true,
       "linilamz898b37r4rdq": false,
       "lkoax50jaxj5ewzruf7": true
+    },
+    "lkobdv0x9r26rwgqeuw": {
+      "lkobdv0x9r26rwgqeuw": true
     }
   },
   "nodes": [
@@ -1155,7 +1158,10 @@
       "ID": "lkobdv0x9r26rwgqeuw",
       "Name": "notes",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lkobe48qxgtio2cpkbn",
+          "lkobe6net1l7pmf1s4p"
+        ],
         "Components": [
           "lkobe1r1cw56mmp4boi"
         ]
@@ -1176,6 +1182,26 @@
       "Attrs": {},
       "Parent": "lkobdv0x9r26rwgqeuw",
       "Rel": "Components"
+    },
+    {
+      "ID": "lkobe48qxgtio2cpkbn",
+      "Name": "Some more notes",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkobdv0x9r26rwgqeuw"
+    },
+    {
+      "ID": "lkobe6net1l7pmf1s4p",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkobdv0x9r26rwgqeuw"
     }
   ],
   "settings": {}
