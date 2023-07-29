@@ -329,7 +329,7 @@
     {
       "ID": "lkoaxrfxx2qjuln1x",
       "Name": "price",
-      "Value": "",
+      "Value": "3.50",
       "Linked": {
         "Children": [],
         "Components": [
@@ -355,7 +355,7 @@
     {
       "ID": "lkoaxrfxiba0nyq6xv",
       "Name": "calories",
-      "Value": "",
+      "Value": "350",
       "Linked": {
         "Children": [],
         "Components": [
@@ -466,7 +466,7 @@
     {
       "ID": "lkoay9s25gybzkrqbl6",
       "Name": "price",
-      "Value": "",
+      "Value": "4.20",
       "Linked": {
         "Children": [],
         "Components": [
@@ -492,7 +492,7 @@
     {
       "ID": "lkoay9s2gynywmbqwio",
       "Name": "calories",
-      "Value": "",
+      "Value": "250",
       "Linked": {
         "Children": [],
         "Components": [
@@ -603,7 +603,7 @@
     {
       "ID": "lkoaynoqd9h78wg54cc",
       "Name": "price",
-      "Value": "",
+      "Value": "2.00",
       "Linked": {
         "Children": [],
         "Components": [
@@ -629,7 +629,7 @@
     {
       "ID": "lkoaynoq3qkqqh0ud7c",
       "Name": "calories",
-      "Value": "",
+      "Value": "120",
       "Linked": {
         "Children": [],
         "Components": [
@@ -740,7 +740,7 @@
     {
       "ID": "lkoaz8hcw7j5erra4xe",
       "Name": "price",
-      "Value": "",
+      "Value": "12.00",
       "Linked": {
         "Children": [],
         "Components": [
@@ -877,7 +877,7 @@
     {
       "ID": "lkoazobi6yhl8k5jpgq",
       "Name": "price",
-      "Value": "",
+      "Value": "8.00",
       "Linked": {
         "Children": [],
         "Components": [
@@ -1014,7 +1014,7 @@
     {
       "ID": "lkoazy9q4hjl6p2lp6o",
       "Name": "price",
-      "Value": "",
+      "Value": "9.00",
       "Linked": {
         "Children": [],
         "Components": [
