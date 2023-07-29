@@ -7,7 +7,7 @@
     },
     "linil3e55hti71quj1": {
       "linil3e55hti71quj1": true,
-      "linilamz898b37r4rdq": false,
+      "linilamz898b37r4rdq": true,
       "linil812pjb8iuw01s": true,
       "lkoaumunrmddtaible": true
     }
@@ -89,8 +89,7 @@
       "Linked": {
         "Children": [
           "linil812pjb8iuw01s",
-          "linilamz898b37r4rdq",
-          "lkoaumunrmddtaible"
+          "linilamz898b37r4rdq"
         ],
         "Components": [],
         "Fields": [
@@ -112,9 +111,13 @@
     },
     {
       "ID": "linilamz898b37r4rdq",
-      "Name": "",
+      "Name": "food",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lkoavd2jaaj1kgiol4r",
+          "lkoavh3igg897628nxc",
+          "lkoavkmoejyeqzkvqn"
+        ],
         "Components": []
       },
       "Attrs": {},
@@ -128,30 +131,6 @@
         "Components": []
       },
       "Attrs": {}
-    },
-    {
-      "ID": "lkoaumunrmddtaible",
-      "Name": "food",
-      "Linked": {
-        "Children": [],
-        "Components": [
-          "lkoaur9cmpibejfm2so"
-        ]
-      },
-      "Attrs": {},
-      "Parent": "linil3e55hti71quj1"
-    },
-    {
-      "ID": "lkoaur9cmpibejfm2so",
-      "Name": "treehouse.Template",
-      "Value": {},
-      "Linked": {
-        "Children": [],
-        "Components": []
-      },
-      "Attrs": {},
-      "Parent": "lkoaumunrmddtaible",
-      "Rel": "Components"
     },
     {
       "ID": "lkoauzzst59i7af3sl",
@@ -178,6 +157,36 @@
       "Attrs": {},
       "Parent": "lkoauzzst59i7af3sl",
       "Rel": "Components"
+    },
+    {
+      "ID": "lkoavd2jaaj1kgiol4r",
+      "Name": "price",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "linilamz898b37r4rdq"
+    },
+    {
+      "ID": "lkoavh3igg897628nxc",
+      "Name": "calories",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "linilamz898b37r4rdq"
+    },
+    {
+      "ID": "lkoavkmoejyeqzkvqn",
+      "Name": "vegan",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "linilamz898b37r4rdq"
     }
   ],
   "settings": {}
