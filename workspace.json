@@ -671,13 +671,140 @@
     },
     {
       "ID": "lkoaypbf050t6nd4sukd",
-      "Name": "",
+      "Name": "plejskaviva",
+      "Linked": {
+        "Children": [
+          "lkoaz8hdxeydzk6t"
+        ],
+        "Components": [
+          "lkoaz8hbpfrm67a7wti"
+        ],
+        "Fields": [
+          "lkoaz8hbfqxjh56e4jo",
+          "lkoaz8hcw7j5erra4xe",
+          "lkoaz8hc7psyfw3g1dv"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lkoax50jaxj5ewzruf7"
+    },
+    {
+      "ID": "lkoaz8hbpfrm67a7wti",
+      "Name": "treehouse.Tag",
+      "Value": {
+        "name": "food"
+      },
       "Linked": {
         "Children": [],
         "Components": []
       },
       "Attrs": {},
-      "Parent": "lkoax50jaxj5ewzruf7"
+      "Parent": "lkoaypbf050t6nd4sukd",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lkoaz8hbfqxjh56e4jo",
+      "Name": "category",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lkoaz8hbyxpg94tm38q"
+        ]
+      },
+      "Attrs": {},
+      "Rel": "Fields",
+      "Parent": "lkoaypbf050t6nd4sukd"
+    },
+    {
+      "ID": "lkoaz8hbyxpg94tm38q",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Rel": "Components",
+      "Parent": "lkoaz8hbfqxjh56e4jo"
+    },
+    {
+      "ID": "lkoaz8hcw7j5erra4xe",
+      "Name": "price",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lkoaz8hc0wtwt71giqs"
+        ]
+      },
+      "Attrs": {},
+      "Rel": "Fields",
+      "Parent": "lkoaypbf050t6nd4sukd"
+    },
+    {
+      "ID": "lkoaz8hc0wtwt71giqs",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Rel": "Components",
+      "Parent": "lkoaz8hcw7j5erra4xe"
+    },
+    {
+      "ID": "lkoaz8hc7psyfw3g1dv",
+      "Name": "calories",
+      "Value": "",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lkoaz8hc4xdiouipytw"
+        ]
+      },
+      "Attrs": {},
+      "Rel": "Fields",
+      "Parent": "lkoaypbf050t6nd4sukd"
+    },
+    {
+      "ID": "lkoaz8hc4xdiouipytw",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Rel": "Components",
+      "Parent": "lkoaz8hc7psyfw3g1dv"
+    },
+    {
+      "ID": "lkoaz8hdxeydzk6t",
+      "Name": "vegan",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lkoaz8hdh6a4wfk1kvq"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lkoaypbf050t6nd4sukd"
+    },
+    {
+      "ID": "lkoaz8hdh6a4wfk1kvq",
+      "Name": "treehouse.Checkbox",
+      "Value": {
+        "checked": false
+      },
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Rel": "Components",
+      "Parent": "lkoaz8hdxeydzk6t"
     }
   ],
   "settings": {}
