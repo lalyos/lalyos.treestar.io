@@ -1139,6 +1139,8 @@
           "lkobe48qxgtio2cpkbn",
           "lkobf5ptyayweiom97i",
           "lkobe6net1l7pmf1s4p",
+          "lkuw92w5tf56jp69i7j",
+          "lkuw98e8iqd8azgapf",
           "lkuw8dfr6y9h1yrhk5x"
         ],
         "Components": [
@@ -1174,7 +1176,7 @@
     },
     {
       "ID": "lkobe6net1l7pmf1s4p",
-      "Name": "```\nsome code",
+      "Name": "``` bash\nfunction() {",
       "Linked": {
         "Children": [],
         "Components": []
@@ -1241,6 +1243,26 @@
     {
       "ID": "lkuw8dfr6y9h1yrhk5x",
       "Name": "```\n",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkobdv0x9r26rwgqeuw"
+    },
+    {
+      "ID": "lkuw92w5tf56jp69i7j",
+      "Name": "  local x=hello",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lkobdv0x9r26rwgqeuw"
+    },
+    {
+      "ID": "lkuw98e8iqd8azgapf",
+      "Name": "  while true; do",
       "Linked": {
         "Children": [],
         "Components": []
